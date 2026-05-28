@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorfalculate",
+        "uuid": 11112696,
+        "checksum": "xniydh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
